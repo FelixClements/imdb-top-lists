@@ -76,6 +76,10 @@
     "tvdbId": 350665
   },
   {
+    "title": "DTF St. Louis",
+    "tvdbId": 468739
+  },
+  {
     "title": "From",
     "tvdbId": 401003
   },
@@ -94,9 +98,5 @@
   {
     "title": "Jujutsu Kaisen",
     "tvdbId": 377543
-  },
-  {
-    "title": "Monarch: Legacy of Monsters",
-    "tvdbId": 422598
   }
 ]
