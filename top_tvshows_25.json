@@ -4,16 +4,12 @@
     "tvdbId": 355567
   },
   {
-    "title": "The Pitt",
-    "tvdbId": 448176
+    "title": "Invincible",
+    "tvdbId": 368207
   },
   {
     "title": "Beef",
     "tvdbId": 399838
-  },
-  {
-    "title": "Invincible",
-    "tvdbId": 368207
   },
   {
     "title": "Euphoria",
@@ -24,24 +20,24 @@
     "tvdbId": 401003
   },
   {
+    "title": "The Pitt",
+    "tvdbId": 448176
+  },
+  {
     "title": "Daredevil: Born Again",
     "tvdbId": 422712
   },
   {
-    "title": "Malcolm in the Middle: Life's Still Unfair",
-    "tvdbId": 457779
+    "title": "Interview with the Vampire",
+    "tvdbId": 405535
+  },
+  {
+    "title": "Running Point",
+    "tvdbId": 450102
   },
   {
     "title": "Game of Thrones",
     "tvdbId": 121361
-  },
-  {
-    "title": "Something Very Bad Is Going to Happen",
-    "tvdbId": 452277
-  },
-  {
-    "title": "The Madison",
-    "tvdbId": 441735
   },
   {
     "title": "Your Friends & Neighbors",
@@ -52,51 +48,55 @@
     "tvdbId": 350665
   },
   {
-    "title": "Paradise",
-    "tvdbId": 454565
-  },
-  {
     "title": "Breaking Bad",
     "tvdbId": 81189
   },
   {
-    "title": "DTF St. Louis",
-    "tvdbId": 468739
+    "title": "The Madison",
+    "tvdbId": 441735
+  },
+  {
+    "title": "Paradise",
+    "tvdbId": 454565
   },
   {
     "title": "For All Mankind",
     "tvdbId": 356202
   },
   {
-    "title": "Shrinking",
-    "tvdbId": 411364
-  },
-  {
     "title": "Outlander",
     "tvdbId": 270408
   },
   {
-    "title": "Malcolm in the Middle",
-    "tvdbId": 73838
+    "title": "Something Very Bad Is Going to Happen",
+    "tvdbId": 452277
   },
   {
-    "title": "One Piece",
-    "tvdbId": 392276
+    "title": "Hacks",
+    "tvdbId": 401582
+  },
+  {
+    "title": "Stranger Things",
+    "tvdbId": 305288
   },
   {
     "title": "Monarch: Legacy of Monsters",
     "tvdbId": 422598
   },
   {
-    "title": "High Potential",
-    "tvdbId": 434988
+    "title": "Shrinking",
+    "tvdbId": 411364
   },
   {
-    "title": "A Knight of the Seven Kingdoms",
-    "tvdbId": 433631
+    "title": "Criminal Record",
+    "tvdbId": 421495
   },
   {
-    "title": "Hacks",
-    "tvdbId": 401582
+    "title": "Supernatural",
+    "tvdbId": 78901
+  },
+  {
+    "title": "One Piece",
+    "tvdbId": 392276
   }
 ]
