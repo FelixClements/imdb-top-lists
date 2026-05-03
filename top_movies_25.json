@@ -32,6 +32,10 @@
     "imdbId": "tt32430579"
   },
   {
+    "title": "The Devil Wears Prada 2",
+    "imdbId": "tt33612209"
+  },
+  {
     "title": "The Housemaid",
     "imdbId": "tt27543632"
   },
@@ -94,9 +98,5 @@
   {
     "title": "Wuthering Heights",
     "imdbId": "tt32897959"
-  },
-  {
-    "title": "Nuremberg",
-    "imdbId": "tt29567915"
   }
 ]
