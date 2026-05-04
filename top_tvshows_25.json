@@ -4,20 +4,20 @@
     "tvdbId": 355567
   },
   {
-    "title": "Invincible",
-    "tvdbId": 368207
-  },
-  {
-    "title": "Beef",
-    "tvdbId": 399838
-  },
-  {
     "title": "Euphoria",
     "tvdbId": 360261
   },
   {
     "title": "From",
     "tvdbId": 401003
+  },
+  {
+    "title": "Beef",
+    "tvdbId": 399838
+  },
+  {
+    "title": "Invincible",
+    "tvdbId": 368207
   },
   {
     "title": "The Pitt",
@@ -28,20 +28,16 @@
     "tvdbId": 422712
   },
   {
-    "title": "Interview with the Vampire",
-    "tvdbId": 405535
-  },
-  {
     "title": "Running Point",
     "tvdbId": 450102
   },
   {
-    "title": "Game of Thrones",
-    "tvdbId": 121361
-  },
-  {
     "title": "Your Friends & Neighbors",
     "tvdbId": 443433
+  },
+  {
+    "title": "Game of Thrones",
+    "tvdbId": 121361
   },
   {
     "title": "The Rookie",
@@ -52,51 +48,55 @@
     "tvdbId": 81189
   },
   {
-    "title": "The Madison",
-    "tvdbId": 441735
-  },
-  {
-    "title": "Paradise",
-    "tvdbId": 454565
-  },
-  {
-    "title": "For All Mankind",
-    "tvdbId": 356202
-  },
-  {
-    "title": "Outlander",
-    "tvdbId": 270408
-  },
-  {
-    "title": "Something Very Bad Is Going to Happen",
-    "tvdbId": 452277
-  },
-  {
     "title": "Hacks",
     "tvdbId": 401582
-  },
-  {
-    "title": "Stranger Things",
-    "tvdbId": 305288
   },
   {
     "title": "Monarch: Legacy of Monsters",
     "tvdbId": 422598
   },
   {
-    "title": "Shrinking",
-    "tvdbId": 411364
+    "title": "Ted Lasso",
+    "tvdbId": 383203
   },
   {
-    "title": "Criminal Record",
-    "tvdbId": 421495
+    "title": "Outlander",
+    "tvdbId": 270408
   },
   {
     "title": "Supernatural",
     "tvdbId": 78901
   },
   {
-    "title": "One Piece",
-    "tvdbId": 392276
+    "title": "For All Mankind",
+    "tvdbId": 356202
+  },
+  {
+    "title": "Paradise",
+    "tvdbId": 454565
+  },
+  {
+    "title": "House of the Dragon",
+    "tvdbId": 371572
+  },
+  {
+    "title": "The Madison",
+    "tvdbId": 441735
+  },
+  {
+    "title": "Stranger Things",
+    "tvdbId": 305288
+  },
+  {
+    "title": "Grey's Anatomy",
+    "tvdbId": 73762
+  },
+  {
+    "title": "Law & Order: Special Victims Unit",
+    "tvdbId": 75692
+  },
+  {
+    "title": "The Mentalist",
+    "tvdbId": 82459
   }
 ]
