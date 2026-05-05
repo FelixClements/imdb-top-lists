@@ -48,6 +48,10 @@
     "tvdbId": 81189
   },
   {
+    "title": "Star Wars: Maul - Shadow Lord",
+    "tvdbId": 462715
+  },
+  {
     "title": "Hacks",
     "tvdbId": 401582
   },
@@ -94,9 +98,5 @@
   {
     "title": "Law & Order: Special Victims Unit",
     "tvdbId": 75692
-  },
-  {
-    "title": "The Mentalist",
-    "tvdbId": 82459
   }
 ]
