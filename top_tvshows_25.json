@@ -52,6 +52,10 @@
     "tvdbId": 401582
   },
   {
+    "title": "Rooster",
+    "tvdbId": 457770
+  },
+  {
     "title": "Running Point",
     "tvdbId": 450102
   },
@@ -94,9 +98,5 @@
   {
     "title": "The Sopranos",
     "tvdbId": 75299
-  },
-  {
-    "title": "Yellowstone",
-    "tvdbId": 341164
   }
 ]
