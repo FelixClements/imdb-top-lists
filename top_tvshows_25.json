@@ -4,6 +4,10 @@
     "tvdbId": 355567
   },
   {
+    "title": "Off Campus",
+    "tvdbId": 455086
+  },
+  {
     "title": "Euphoria",
     "tvdbId": 360261
   },
@@ -90,9 +94,5 @@
   {
     "title": "The Mandalorian",
     "tvdbId": 361753
-  },
-  {
-    "title": "Supernatural",
-    "tvdbId": 78901
   }
 ]
