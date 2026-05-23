@@ -8,6 +8,10 @@
     "tvdbId": 455086
   },
   {
+    "title": "Legends",
+    "tvdbId": 453615
+  },
+  {
     "title": "Euphoria",
     "tvdbId": 360261
   },
@@ -30,9 +34,5 @@
   {
     "title": "Outlander",
     "tvdbId": 270408
-  },
-  {
-    "title": "The Pitt",
-    "tvdbId": 448176
   }
 ]
