@@ -8,20 +8,16 @@
     "tvdbId": 455086
   },
   {
+    "title": "From",
+    "tvdbId": 401003
+  },
+  {
     "title": "Legends",
     "tvdbId": 453615
   },
   {
     "title": "Euphoria",
     "tvdbId": 360261
-  },
-  {
-    "title": "From",
-    "tvdbId": 401003
-  },
-  {
-    "title": "Rivals",
-    "tvdbId": 429920
   },
   {
     "title": "Your Friends & Neighbors",
@@ -32,67 +28,71 @@
     "tvdbId": 121361
   },
   {
-    "title": "Outlander",
-    "tvdbId": 270408
+    "title": "Rivals",
+    "tvdbId": 429920
   },
   {
-    "title": "The Pitt",
-    "tvdbId": 448176
+    "title": "The Mandalorian",
+    "tvdbId": 361753
   },
   {
-    "title": "Daredevil: Born Again",
-    "tvdbId": 422712
-  },
-  {
-    "title": "Rooster",
-    "tvdbId": 457770
+    "title": "Virgin River",
+    "tvdbId": 371972
   },
   {
     "title": "Hacks",
     "tvdbId": 401582
   },
   {
-    "title": "Invincible",
-    "tvdbId": 368207
-  },
-  {
-    "title": "The Rookie",
-    "tvdbId": 350665
-  },
-  {
-    "title": "Citadel",
-    "tvdbId": 393268
+    "title": "Breaking Bad",
+    "tvdbId": 81189
   },
   {
     "title": "Marshals",
     "tvdbId": 463433
   },
   {
-    "title": "Breaking Bad",
-    "tvdbId": 81189
-  },
-  {
-    "title": "Good Omens",
-    "tvdbId": 359569
-  },
-  {
-    "title": "Beef",
-    "tvdbId": 399838
-  },
-  {
-    "title": "The Punisher",
-    "tvdbId": 331980
-  },
-  {
-    "title": "Devil May Cry",
-    "tvdbId": 440193
+    "title": "The Pitt",
+    "tvdbId": 448176
   },
   {
     "title": "Yellowstone",
     "tvdbId": 341164
   },
   {
+    "title": "Invincible",
+    "tvdbId": 368207
+  },
+  {
+    "title": "Jack Ryan",
+    "tvdbId": 336261
+  },
+  {
+    "title": "Stranger Things",
+    "tvdbId": 305288
+  },
+  {
+    "title": "The Rookie",
+    "tvdbId": 350665
+  },
+  {
+    "title": "Supernatural",
+    "tvdbId": 78901
+  },
+  {
     "title": "For All Mankind",
     "tvdbId": 356202
+  },
+  {
+    "title": "Beef",
+    "tvdbId": 399838
+  },
+  {
+    "title": "Daredevil: Born Again",
+    "tvdbId": 422712
+  },
+  {
+    "title": "Outlander",
+    "tvdbId": 270408
   }
 ]

@@ -8,20 +8,16 @@
     "tvdbId": 455086
   },
   {
+    "title": "From",
+    "tvdbId": 401003
+  },
+  {
     "title": "Legends",
     "tvdbId": 453615
   },
   {
     "title": "Euphoria",
     "tvdbId": 360261
-  },
-  {
-    "title": "From",
-    "tvdbId": 401003
-  },
-  {
-    "title": "Rivals",
-    "tvdbId": 429920
   },
   {
     "title": "Your Friends & Neighbors",
@@ -32,7 +28,11 @@
     "tvdbId": 121361
   },
   {
-    "title": "Outlander",
-    "tvdbId": 270408
+    "title": "Rivals",
+    "tvdbId": 429920
+  },
+  {
+    "title": "The Mandalorian",
+    "tvdbId": 361753
   }
 ]
