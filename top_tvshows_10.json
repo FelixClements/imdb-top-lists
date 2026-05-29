@@ -8,6 +8,10 @@
     "tvdbId": 455086
   },
   {
+    "title": "The Boroughs",
+    "tvdbId": 433989
+  },
+  {
     "title": "From",
     "tvdbId": 401003
   },
@@ -30,9 +34,5 @@
   {
     "title": "Rivals",
     "tvdbId": 429920
-  },
-  {
-    "title": "The Mandalorian",
-    "tvdbId": 361753
   }
 ]

@@ -8,6 +8,10 @@
     "tvdbId": 455086
   },
   {
+    "title": "The Boroughs",
+    "tvdbId": 433989
+  },
+  {
     "title": "From",
     "tvdbId": 401003
   },
@@ -84,15 +88,11 @@
     "tvdbId": 356202
   },
   {
+    "title": "Man on Fire",
+    "tvdbId": 433027
+  },
+  {
     "title": "Beef",
     "tvdbId": 399838
-  },
-  {
-    "title": "Daredevil: Born Again",
-    "tvdbId": 422712
-  },
-  {
-    "title": "Outlander",
-    "tvdbId": 270408
   }
 ]
