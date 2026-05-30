@@ -48,6 +48,10 @@
     "imdbId": "tt27613895"
   },
   {
+    "title": "Normal",
+    "imdbId": "tt31195136"
+  },
+  {
     "title": "Hokum",
     "imdbId": "tt35672862"
   },
@@ -94,9 +98,5 @@
   {
     "title": "Mortal Kombat",
     "imdbId": "tt0293429"
-  },
-  {
-    "title": "The Running Man",
-    "imdbId": "tt14107334"
   }
 ]
