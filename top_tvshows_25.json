@@ -72,6 +72,10 @@
     "tvdbId": 336261
   },
   {
+    "title": "Spider-Noir",
+    "tvdbId": 450033
+  },
+  {
     "title": "Stranger Things",
     "tvdbId": 305288
   },
@@ -90,9 +94,5 @@
   {
     "title": "Man on Fire",
     "tvdbId": 433027
-  },
-  {
-    "title": "Beef",
-    "tvdbId": 399838
   }
 ]
