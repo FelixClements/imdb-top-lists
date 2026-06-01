@@ -1,38 +1,42 @@
 [
   {
-    "title": "The Boys",
-    "tvdbId": 355567
-  },
-  {
-    "title": "Off Campus",
-    "tvdbId": 455086
+    "title": "Spider-Noir",
+    "tvdbId": 450033
   },
   {
     "title": "The Boroughs",
     "tvdbId": 433989
   },
   {
-    "title": "From",
-    "tvdbId": 401003
+    "title": "Off Campus",
+    "tvdbId": 455086
   },
   {
-    "title": "Legends",
-    "tvdbId": 453615
+    "title": "The Boys",
+    "tvdbId": 355567
+  },
+  {
+    "title": "Widow's Bay",
+    "tvdbId": 454109
   },
   {
     "title": "Euphoria",
     "tvdbId": 360261
   },
   {
+    "title": "From",
+    "tvdbId": 401003
+  },
+  {
+    "title": "The Four Seasons",
+    "tvdbId": 444528
+  },
+  {
     "title": "Your Friends & Neighbors",
     "tvdbId": 443433
   },
   {
-    "title": "Game of Thrones",
-    "tvdbId": 121361
-  },
-  {
-    "title": "Rivals",
-    "tvdbId": 429920
+    "title": "Legends",
+    "tvdbId": 453615
   }
 ]
