@@ -4,16 +4,12 @@
     "tvdbId": 450033
   },
   {
-    "title": "The Boroughs",
-    "tvdbId": 433989
-  },
-  {
     "title": "Off Campus",
     "tvdbId": 455086
   },
   {
-    "title": "The Boys",
-    "tvdbId": 355567
+    "title": "The Boroughs",
+    "tvdbId": 433989
   },
   {
     "title": "Widow's Bay",
@@ -24,24 +20,20 @@
     "tvdbId": 360261
   },
   {
-    "title": "From",
-    "tvdbId": 401003
+    "title": "The Boys",
+    "tvdbId": 355567
   },
   {
-    "title": "The Four Seasons",
-    "tvdbId": 444528
+    "title": "From",
+    "tvdbId": 401003
   },
   {
     "title": "Your Friends & Neighbors",
     "tvdbId": 443433
   },
   {
-    "title": "Legends",
-    "tvdbId": 453615
-  },
-  {
-    "title": "Hacks",
-    "tvdbId": 401582
+    "title": "The Four Seasons",
+    "tvdbId": 444528
   },
   {
     "title": "Game of Thrones",
@@ -52,16 +44,8 @@
     "tvdbId": 305089
   },
   {
-    "title": "House of the Dragon",
-    "tvdbId": 371572
-  },
-  {
-    "title": "Marshals",
-    "tvdbId": 463433
-  },
-  {
-    "title": "For All Mankind",
-    "tvdbId": 356202
+    "title": "Legends",
+    "tvdbId": 453615
   },
   {
     "title": "Rivals",
@@ -72,27 +56,47 @@
     "tvdbId": 81189
   },
   {
-    "title": "The Pitt",
-    "tvdbId": 448176
+    "title": "House of the Dragon",
+    "tvdbId": 371572
   },
   {
     "title": "Rick and Morty",
     "tvdbId": 275274
   },
   {
+    "title": "Ted Lasso",
+    "tvdbId": 383203
+  },
+  {
+    "title": "The Amazing Digital Circus",
+    "tvdbId": 440853
+  },
+  {
+    "title": "The Pitt",
+    "tvdbId": 448176
+  },
+  {
     "title": "Yellowstone",
     "tvdbId": 341164
   },
   {
-    "title": "A Good Girl's Guide to Murder",
-    "tvdbId": 430061
+    "title": "Hacks",
+    "tvdbId": 401582
+  },
+  {
+    "title": "For All Mankind",
+    "tvdbId": 356202
   },
   {
     "title": "The Rookie",
     "tvdbId": 350665
   },
   {
-    "title": "Criminal Minds",
-    "tvdbId": 75710
+    "title": "Supernatural",
+    "tvdbId": 78901
+  },
+  {
+    "title": "A Good Girl's Guide to Murder",
+    "tvdbId": 430061
   }
 ]
