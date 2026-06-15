@@ -1,31 +1,39 @@
 [
   {
-    "title": "Spider-Noir",
-    "tvdbId": 450033
-  },
-  {
     "title": "Off Campus",
     "tvdbId": 455086
-  },
-  {
-    "title": "The Boroughs",
-    "tvdbId": 433989
   },
   {
     "title": "Widow's Bay",
     "tvdbId": 454109
   },
   {
-    "title": "Euphoria",
-    "tvdbId": 360261
+    "title": "From",
+    "tvdbId": 401003
+  },
+  {
+    "title": "Spider-Noir",
+    "tvdbId": 450033
+  },
+  {
+    "title": "The Boroughs",
+    "tvdbId": 433989
   },
   {
     "title": "The Boys",
     "tvdbId": 355567
   },
   {
-    "title": "From",
-    "tvdbId": 401003
+    "title": "Euphoria",
+    "tvdbId": 360261
+  },
+  {
+    "title": "Game of Thrones",
+    "tvdbId": 121361
+  },
+  {
+    "title": "House of the Dragon",
+    "tvdbId": 371572
   },
   {
     "title": "Your Friends & Neighbors",
@@ -36,67 +44,59 @@
     "tvdbId": 444528
   },
   {
-    "title": "Game of Thrones",
-    "tvdbId": 121361
-  },
-  {
-    "title": "Re: Zero - Starting Life in Another World",
-    "tvdbId": 305089
+    "title": "The Pitt",
+    "tvdbId": 448176
   },
   {
     "title": "Legends",
     "tvdbId": 453615
   },
   {
-    "title": "Rivals",
-    "tvdbId": 429920
-  },
-  {
     "title": "Breaking Bad",
     "tvdbId": 81189
   },
   {
-    "title": "House of the Dragon",
-    "tvdbId": 371572
+    "title": "Re: Zero - Starting Life in Another World",
+    "tvdbId": 305089
+  },
+  {
+    "title": "Rivals",
+    "tvdbId": 429920
   },
   {
     "title": "Rick and Morty",
     "tvdbId": 275274
   },
   {
-    "title": "Ted Lasso",
-    "tvdbId": 383203
-  },
-  {
-    "title": "The Amazing Digital Circus",
-    "tvdbId": 440853
-  },
-  {
-    "title": "The Pitt",
-    "tvdbId": 448176
-  },
-  {
     "title": "Yellowstone",
     "tvdbId": 341164
   },
   {
-    "title": "Hacks",
-    "tvdbId": 401582
-  },
-  {
-    "title": "For All Mankind",
-    "tvdbId": 356202
-  },
-  {
-    "title": "Half Man",
-    "tvdbId": 446817
+    "title": "Supernatural",
+    "tvdbId": 78901
   },
   {
     "title": "The Rookie",
     "tvdbId": 350665
   },
   {
-    "title": "Supernatural",
-    "tvdbId": 78901
+    "title": "Criminal Minds",
+    "tvdbId": 75710
+  },
+  {
+    "title": "Ted Lasso",
+    "tvdbId": 383203
+  },
+  {
+    "title": "Interview with the Vampire",
+    "tvdbId": 405535
+  },
+  {
+    "title": "The Sopranos",
+    "tvdbId": 75299
+  },
+  {
+    "title": "Sweet Magnolias",
+    "tvdbId": 381065
   }
 ]
