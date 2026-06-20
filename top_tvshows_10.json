@@ -16,6 +16,10 @@
     "tvdbId": 450033
   },
   {
+    "title": "Dutton Ranch",
+    "tvdbId": 463308
+  },
+  {
     "title": "The Boroughs",
     "tvdbId": 433989
   },
@@ -34,9 +38,5 @@
   {
     "title": "House of the Dragon",
     "tvdbId": 371572
-  },
-  {
-    "title": "Your Friends & Neighbors",
-    "tvdbId": 443433
   }
 ]
