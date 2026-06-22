@@ -1,87 +1,87 @@
 [
   {
-    "title": "Off Campus",
-    "tvdbId": 455086
-  },
-  {
     "title": "Widow's Bay",
     "tvdbId": 454109
+  },
+  {
+    "title": "Off Campus",
+    "tvdbId": 455086
   },
   {
     "title": "From",
     "tvdbId": 401003
   },
   {
-    "title": "Spider-Noir",
-    "tvdbId": 450033
+    "title": "Re: Zero - Starting Life in Another World",
+    "tvdbId": 305089
   },
   {
     "title": "Dutton Ranch",
     "tvdbId": 463308
   },
   {
+    "title": "House of the Dragon",
+    "tvdbId": 371572
+  },
+  {
+    "title": "Spider-Noir",
+    "tvdbId": 450033
+  },
+  {
     "title": "The Boroughs",
     "tvdbId": 433989
-  },
-  {
-    "title": "The Boys",
-    "tvdbId": 355567
-  },
-  {
-    "title": "Euphoria",
-    "tvdbId": 360261
   },
   {
     "title": "Game of Thrones",
     "tvdbId": 121361
   },
   {
-    "title": "House of the Dragon",
-    "tvdbId": 371572
+    "title": "The Boys",
+    "tvdbId": 355567
   },
   {
-    "title": "Your Friends & Neighbors",
-    "tvdbId": 443433
+    "title": "Sugar",
+    "tvdbId": 421070
   },
   {
-    "title": "The Four Seasons",
-    "tvdbId": 444528
+    "title": "Euphoria",
+    "tvdbId": 360261
   },
   {
-    "title": "The Pitt",
-    "tvdbId": 448176
-  },
-  {
-    "title": "Legends",
-    "tvdbId": 453615
+    "title": "The Amazing Digital Circus",
+    "tvdbId": 440853
   },
   {
     "title": "Breaking Bad",
     "tvdbId": 81189
   },
   {
-    "title": "Re: Zero - Starting Life in Another World",
-    "tvdbId": 305089
-  },
-  {
-    "title": "Rivals",
-    "tvdbId": 429920
-  },
-  {
     "title": "Rick and Morty",
     "tvdbId": 275274
   },
   {
-    "title": "Yellowstone",
-    "tvdbId": 341164
+    "title": "The Pitt",
+    "tvdbId": 448176
+  },
+  {
+    "title": "The Four Seasons",
+    "tvdbId": 444528
+  },
+  {
+    "title": "The Rookie",
+    "tvdbId": 350665
+  },
+  {
+    "title": "Your Friends & Neighbors",
+    "tvdbId": 443433
   },
   {
     "title": "Supernatural",
     "tvdbId": 78901
   },
   {
-    "title": "The Rookie",
-    "tvdbId": 350665
+    "title": "Yellowstone",
+    "tvdbId": 341164
   },
   {
     "title": "Criminal Minds",
@@ -92,11 +92,11 @@
     "tvdbId": 383203
   },
   {
-    "title": "Interview with the Vampire",
-    "tvdbId": 405535
+    "title": "Legends",
+    "tvdbId": 453615
   },
   {
-    "title": "The Sopranos",
-    "tvdbId": 75299
+    "title": "Attack on Titan",
+    "tvdbId": 267440
   }
 ]

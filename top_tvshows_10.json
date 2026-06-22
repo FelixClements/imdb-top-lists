@@ -1,42 +1,42 @@
 [
   {
-    "title": "Off Campus",
-    "tvdbId": 455086
-  },
-  {
     "title": "Widow's Bay",
     "tvdbId": 454109
+  },
+  {
+    "title": "Off Campus",
+    "tvdbId": 455086
   },
   {
     "title": "From",
     "tvdbId": 401003
   },
   {
-    "title": "Spider-Noir",
-    "tvdbId": 450033
+    "title": "Re: Zero - Starting Life in Another World",
+    "tvdbId": 305089
   },
   {
     "title": "Dutton Ranch",
     "tvdbId": 463308
   },
   {
+    "title": "House of the Dragon",
+    "tvdbId": 371572
+  },
+  {
+    "title": "Spider-Noir",
+    "tvdbId": 450033
+  },
+  {
     "title": "The Boroughs",
     "tvdbId": 433989
-  },
-  {
-    "title": "The Boys",
-    "tvdbId": 355567
-  },
-  {
-    "title": "Euphoria",
-    "tvdbId": 360261
   },
   {
     "title": "Game of Thrones",
     "tvdbId": 121361
   },
   {
-    "title": "House of the Dragon",
-    "tvdbId": 371572
+    "title": "The Boys",
+    "tvdbId": 355567
   }
 ]
