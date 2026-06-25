@@ -1,5 +1,9 @@
 [
   {
+    "title": "I Will Find You",
+    "tvdbId": 457173
+  },
+  {
     "title": "Widow's Bay",
     "tvdbId": 454109
   },
@@ -94,9 +98,5 @@
   {
     "title": "Legends",
     "tvdbId": 453615
-  },
-  {
-    "title": "Attack on Titan",
-    "tvdbId": 267440
   }
 ]
