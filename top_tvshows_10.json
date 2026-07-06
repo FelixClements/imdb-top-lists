@@ -1,42 +1,42 @@
 [
   {
-    "title": "I Will Find You",
-    "tvdbId": 457173
-  },
-  {
     "title": "House of the Dragon",
     "tvdbId": 371572
   },
   {
-    "title": "The Bear",
-    "tvdbId": 403294
-  },
-  {
-    "title": "From",
-    "tvdbId": 401003
-  },
-  {
-    "title": "Widow's Bay",
-    "tvdbId": 454109
-  },
-  {
-    "title": "Avatar: The Last Airbender",
-    "tvdbId": 385925
+    "title": "I Will Find You",
+    "tvdbId": 457173
   },
   {
     "title": "Dutton Ranch",
     "tvdbId": 463308
   },
   {
-    "title": "Off Campus",
-    "tvdbId": 455086
+    "title": "From",
+    "tvdbId": 401003
   },
   {
-    "title": "The Agency",
-    "tvdbId": 430769
+    "title": "Silo",
+    "tvdbId": 403245
+  },
+  {
+    "title": "The Bear",
+    "tvdbId": 403294
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "tvdbId": 385925
+  },
+  {
+    "title": "Widow's Bay",
+    "tvdbId": 454109
   },
   {
     "title": "Game of Thrones",
     "tvdbId": 121361
+  },
+  {
+    "title": "Off Campus",
+    "tvdbId": 455086
   }
 ]
