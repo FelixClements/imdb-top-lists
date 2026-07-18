@@ -1,5 +1,9 @@
 [
   {
+    "title": "The Odyssey",
+    "imdbId": "tt33764258"
+  },
+  {
     "title": "Obsession",
     "imdbId": "tt37287335"
   },
@@ -94,9 +98,5 @@
   {
     "title": "Evil Dead Rise",
     "imdbId": "tt13345606"
-  },
-  {
-    "title": "Good Luck, Have Fun, Don't Die",
-    "imdbId": "tt1341338"
   }
 ]
