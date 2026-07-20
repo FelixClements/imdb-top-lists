@@ -12,31 +12,31 @@
     "tvdbId": 403245
   },
   {
-    "title": "Dutton Ranch",
-    "tvdbId": 463308
-  },
-  {
     "title": "Widow's Bay",
     "tvdbId": 454109
-  },
-  {
-    "title": "The Bear",
-    "tvdbId": 403294
-  },
-  {
-    "title": "From",
-    "tvdbId": 401003
   },
   {
     "title": "Game of Thrones",
     "tvdbId": 121361
   },
   {
-    "title": "Avatar: The Last Airbender",
-    "tvdbId": 385925
+    "title": "Dutton Ranch",
+    "tvdbId": 463308
+  },
+  {
+    "title": "The Bear",
+    "tvdbId": 403294
   },
   {
     "title": "Off Campus",
     "tvdbId": 455086
+  },
+  {
+    "title": "Rick and Morty",
+    "tvdbId": 275274
+  },
+  {
+    "title": "The Odyssey",
+    "tvdbId": 248864
   }
 ]
