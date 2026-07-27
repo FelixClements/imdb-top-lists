@@ -4,12 +4,20 @@
     "tvdbId": 371572
   },
   {
+    "title": "Silo",
+    "tvdbId": 403245
+  },
+  {
     "title": "I Will Find You",
     "tvdbId": 457173
   },
   {
-    "title": "Silo",
-    "tvdbId": 403245
+    "title": "Ransom Canyon",
+    "tvdbId": 443051
+  },
+  {
+    "title": "Cape Fear",
+    "tvdbId": 456813
   },
   {
     "title": "Widow's Bay",
@@ -20,23 +28,15 @@
     "tvdbId": 121361
   },
   {
-    "title": "Dutton Ranch",
-    "tvdbId": 463308
-  },
-  {
     "title": "The Bear",
     "tvdbId": 403294
   },
   {
-    "title": "Off Campus",
-    "tvdbId": 455086
+    "title": "The Lord of the Rings: The Rings of Power",
+    "tvdbId": 367506
   },
   {
-    "title": "Rick and Morty",
-    "tvdbId": 275274
-  },
-  {
-    "title": "The Odyssey",
-    "tvdbId": 248864
+    "title": "The Mentalist",
+    "tvdbId": 82459
   }
 ]
