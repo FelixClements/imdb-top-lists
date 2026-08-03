@@ -8,60 +8,44 @@
     "tvdbId": 403245
   },
   {
-    "title": "I Will Find You",
-    "tvdbId": 457173
+    "title": "Cape Fear",
+    "tvdbId": 456813
   },
   {
     "title": "Ransom Canyon",
     "tvdbId": 443051
   },
   {
-    "title": "Cape Fear",
-    "tvdbId": 456813
+    "title": "Lioness",
+    "tvdbId": 388589
   },
   {
-    "title": "Widow's Bay",
-    "tvdbId": 454109
+    "title": "I Will Find You",
+    "tvdbId": 457173
   },
   {
     "title": "Game of Thrones",
     "tvdbId": 121361
   },
   {
-    "title": "The Bear",
-    "tvdbId": 403294
-  },
-  {
-    "title": "The Lord of the Rings: The Rings of Power",
-    "tvdbId": 367506
-  },
-  {
-    "title": "The Mentalist",
-    "tvdbId": 82459
-  },
-  {
-    "title": "The Odyssey",
-    "tvdbId": 248864
-  },
-  {
     "title": "Rick and Morty",
     "tvdbId": 275274
-  },
-  {
-    "title": "Interview with the Vampire",
-    "tvdbId": 405535
-  },
-  {
-    "title": "Dutton Ranch",
-    "tvdbId": 463308
   },
   {
     "title": "Ted Lasso",
     "tvdbId": 383203
   },
   {
-    "title": "Star Trek: Strange New Worlds",
-    "tvdbId": 382389
+    "title": "Widow's Bay",
+    "tvdbId": 454109
+  },
+  {
+    "title": "The Mentalist",
+    "tvdbId": 82459
+  },
+  {
+    "title": "The Sopranos",
+    "tvdbId": 75299
   },
   {
     "title": "The Rookie",
@@ -72,27 +56,47 @@
     "tvdbId": 81189
   },
   {
+    "title": "The Bear",
+    "tvdbId": 403294
+  },
+  {
     "title": "Off Campus",
     "tvdbId": 455086
   },
   {
-    "title": "From",
-    "tvdbId": 401003
-  },
-  {
-    "title": "Avatar: The Last Airbender",
-    "tvdbId": 385925
+    "title": "Star Trek: Strange New Worlds",
+    "tvdbId": 382389
   },
   {
     "title": "Reacher",
     "tvdbId": 366924
   },
   {
-    "title": "Criminal Minds",
-    "tvdbId": 75710
+    "title": "Sugar",
+    "tvdbId": 421070
+  },
+  {
+    "title": "The Punisher",
+    "tvdbId": 331980
+  },
+  {
+    "title": "From",
+    "tvdbId": 401003
+  },
+  {
+    "title": "Dutton Ranch",
+    "tvdbId": 463308
+  },
+  {
+    "title": "The Lord of the Rings: The Rings of Power",
+    "tvdbId": 367506
   },
   {
     "title": "The Pitt",
     "tvdbId": 448176
+  },
+  {
+    "title": "The Office",
+    "tvdbId": 73244
   }
 ]
