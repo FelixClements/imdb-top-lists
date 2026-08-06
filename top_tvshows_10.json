@@ -12,6 +12,10 @@
     "tvdbId": 456813
   },
   {
+    "title": "Ride or Die",
+    "tvdbId": 457730
+  },
+  {
     "title": "Ransom Canyon",
     "tvdbId": 443051
   },
@@ -34,9 +38,5 @@
   {
     "title": "Ted Lasso",
     "tvdbId": 383203
-  },
-  {
-    "title": "Widow's Bay",
-    "tvdbId": 454109
   }
 ]

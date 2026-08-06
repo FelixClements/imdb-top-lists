@@ -12,6 +12,10 @@
     "tvdbId": 456813
   },
   {
+    "title": "Ride or Die",
+    "tvdbId": 457730
+  },
+  {
     "title": "Ransom Canyon",
     "tvdbId": 443051
   },
@@ -94,9 +98,5 @@
   {
     "title": "The Pitt",
     "tvdbId": 448176
-  },
-  {
-    "title": "The Office",
-    "tvdbId": 73244
   }
 ]
