@@ -4,52 +4,44 @@
     "tvdbId": 371572
   },
   {
+    "title": "Ted Lasso",
+    "tvdbId": 383203
+  },
+  {
     "title": "Silo",
     "tvdbId": 403245
-  },
-  {
-    "title": "Cape Fear",
-    "tvdbId": 456813
-  },
-  {
-    "title": "Ride or Die",
-    "tvdbId": 457730
-  },
-  {
-    "title": "Ransom Canyon",
-    "tvdbId": 443051
   },
   {
     "title": "Lioness",
     "tvdbId": 388589
   },
   {
-    "title": "I Will Find You",
-    "tvdbId": 457173
-  },
-  {
     "title": "Game of Thrones",
     "tvdbId": 121361
-  },
-  {
-    "title": "Rick and Morty",
-    "tvdbId": 275274
-  },
-  {
-    "title": "Ted Lasso",
-    "tvdbId": 383203
-  },
-  {
-    "title": "Widow's Bay",
-    "tvdbId": 454109
   },
   {
     "title": "The Mentalist",
     "tvdbId": 82459
   },
   {
-    "title": "The Sopranos",
-    "tvdbId": 75299
+    "title": "Ride or Die",
+    "tvdbId": 457730
+  },
+  {
+    "title": "Widow's Bay",
+    "tvdbId": 454109
+  },
+  {
+    "title": "Sugar",
+    "tvdbId": 421070
+  },
+  {
+    "title": "I Will Find You",
+    "tvdbId": 457173
+  },
+  {
+    "title": "My Life with the Walter Boys",
+    "tvdbId": 405817
   },
   {
     "title": "The Rookie",
@@ -60,43 +52,51 @@
     "tvdbId": 81189
   },
   {
-    "title": "The Bear",
-    "tvdbId": 403294
+    "title": "Rick and Morty",
+    "tvdbId": 275274
   },
   {
-    "title": "Off Campus",
-    "tvdbId": 455086
-  },
-  {
-    "title": "Star Trek: Strange New Worlds",
-    "tvdbId": 382389
+    "title": "Cape Fear",
+    "tvdbId": 456813
   },
   {
     "title": "Reacher",
     "tvdbId": 366924
   },
   {
-    "title": "Sugar",
-    "tvdbId": 421070
+    "title": "The Bear",
+    "tvdbId": 403294
   },
   {
     "title": "The Punisher",
     "tvdbId": 331980
   },
   {
-    "title": "From",
-    "tvdbId": 401003
+    "title": "Ransom Canyon",
+    "tvdbId": 443051
   },
   {
-    "title": "Dutton Ranch",
-    "tvdbId": 463308
+    "title": "The Sopranos",
+    "tvdbId": 75299
   },
   {
-    "title": "The Lord of the Rings: The Rings of Power",
-    "tvdbId": 367506
+    "title": "Star Trek: Strange New Worlds",
+    "tvdbId": 382389
+  },
+  {
+    "title": "Off Campus",
+    "tvdbId": 455086
+  },
+  {
+    "title": "X-Men '97",
+    "tvdbId": 412432
   },
   {
     "title": "The Pitt",
     "tvdbId": 448176
+  },
+  {
+    "title": "From",
+    "tvdbId": 401003
   }
 ]
