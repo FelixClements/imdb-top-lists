@@ -1,5 +1,9 @@
 [
   {
+    "title": "Reacher",
+    "tvdbId": 366924
+  },
+  {
     "title": "House of the Dragon",
     "tvdbId": 371572
   },
@@ -14,9 +18,5 @@
   {
     "title": "Lioness",
     "tvdbId": 388589
-  },
-  {
-    "title": "Game of Thrones",
-    "tvdbId": 121361
   }
 ]

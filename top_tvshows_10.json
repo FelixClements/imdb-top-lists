@@ -1,5 +1,9 @@
 [
   {
+    "title": "Reacher",
+    "tvdbId": 366924
+  },
+  {
     "title": "House of the Dragon",
     "tvdbId": 371572
   },
@@ -16,6 +20,10 @@
     "tvdbId": 388589
   },
   {
+    "title": "Tires",
+    "tvdbId": 446718
+  },
+  {
     "title": "Game of Thrones",
     "tvdbId": 121361
   },
@@ -24,19 +32,7 @@
     "tvdbId": 82459
   },
   {
-    "title": "Ride or Die",
-    "tvdbId": 457730
-  },
-  {
     "title": "Widow's Bay",
     "tvdbId": 454109
-  },
-  {
-    "title": "Sugar",
-    "tvdbId": 421070
-  },
-  {
-    "title": "I Will Find You",
-    "tvdbId": 457173
   }
 ]

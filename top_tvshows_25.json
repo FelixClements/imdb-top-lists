@@ -1,5 +1,9 @@
 [
   {
+    "title": "Reacher",
+    "tvdbId": 366924
+  },
+  {
     "title": "House of the Dragon",
     "tvdbId": 371572
   },
@@ -16,6 +20,10 @@
     "tvdbId": 388589
   },
   {
+    "title": "Tires",
+    "tvdbId": 446718
+  },
+  {
     "title": "Game of Thrones",
     "tvdbId": 121361
   },
@@ -24,79 +32,67 @@
     "tvdbId": 82459
   },
   {
-    "title": "Ride or Die",
-    "tvdbId": 457730
-  },
-  {
     "title": "Widow's Bay",
     "tvdbId": 454109
-  },
-  {
-    "title": "Sugar",
-    "tvdbId": 421070
-  },
-  {
-    "title": "I Will Find You",
-    "tvdbId": 457173
-  },
-  {
-    "title": "My Life with the Walter Boys",
-    "tvdbId": 405817
-  },
-  {
-    "title": "The Rookie",
-    "tvdbId": 350665
   },
   {
     "title": "Breaking Bad",
     "tvdbId": 81189
   },
   {
-    "title": "Rick and Morty",
-    "tvdbId": 275274
-  },
-  {
-    "title": "Cape Fear",
-    "tvdbId": 456813
-  },
-  {
-    "title": "Reacher",
-    "tvdbId": 366924
-  },
-  {
-    "title": "The Bear",
-    "tvdbId": 403294
-  },
-  {
-    "title": "The Punisher",
-    "tvdbId": 331980
-  },
-  {
-    "title": "Ransom Canyon",
-    "tvdbId": 443051
-  },
-  {
-    "title": "The Sopranos",
-    "tvdbId": 75299
-  },
-  {
-    "title": "Star Trek: Strange New Worlds",
-    "tvdbId": 382389
-  },
-  {
-    "title": "Off Campus",
-    "tvdbId": 455086
+    "title": "The Rookie",
+    "tvdbId": 350665
   },
   {
     "title": "X-Men '97",
     "tvdbId": 412432
   },
   {
-    "title": "The Pitt",
-    "tvdbId": 448176
+    "title": "I Will Find You",
+    "tvdbId": 457173
   },
   {
-    "title": "From",
-    "tvdbId": 401003
+    "title": "Ride or Die",
+    "tvdbId": 457730
+  },
+  {
+    "title": "My Life with the Walter Boys",
+    "tvdbId": 405817
+  },
+  {
+    "title": "Rick and Morty",
+    "tvdbId": 275274
+  },
+  {
+    "title": "Star Trek: Strange New Worlds",
+    "tvdbId": 382389
+  },
+  {
+    "title": "The Sopranos",
+    "tvdbId": 75299
+  },
+  {
+    "title": "American Horror Story",
+    "tvdbId": 250487
+  },
+  {
+    "title": "The Bear",
+    "tvdbId": 403294
+  },
+  {
+    "title": "Off Campus",
+    "tvdbId": 455086
+  },
+  {
+    "title": "The Walking Dead",
+    "tvdbId": 153021
+  },
+  {
+    "title": "The Punisher",
+    "tvdbId": 331980
+  },
+  {
+    "title": "Sugar",
+    "tvdbId": 421070
   }
 ]
