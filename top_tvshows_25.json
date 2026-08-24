@@ -1,19 +1,31 @@
 [
   {
+    "title": "Lanterns",
+    "tvdbId": 376098
+  },
+  {
     "title": "Reacher",
     "tvdbId": 366924
   },
   {
-    "title": "House of the Dragon",
-    "tvdbId": 371572
+    "title": "Silo",
+    "tvdbId": 403245
   },
   {
     "title": "Ted Lasso",
     "tvdbId": 383203
   },
   {
-    "title": "Silo",
-    "tvdbId": 403245
+    "title": "Outer Banks",
+    "tvdbId": 379169
+  },
+  {
+    "title": "House of the Dragon",
+    "tvdbId": 371572
+  },
+  {
+    "title": "Sterling Point",
+    "tvdbId": 459552
   },
   {
     "title": "Lioness",
@@ -24,6 +36,14 @@
     "tvdbId": 446718
   },
   {
+    "title": "The Pitt",
+    "tvdbId": 448176
+  },
+  {
+    "title": "Lucky",
+    "tvdbId": 457437
+  },
+  {
     "title": "Game of Thrones",
     "tvdbId": 121361
   },
@@ -32,67 +52,47 @@
     "tvdbId": 82459
   },
   {
-    "title": "Lucky",
-    "tvdbId": 457437
+    "title": "Re: Zero - Starting Life in Another World",
+    "tvdbId": 305089
+  },
+  {
+    "title": "Heroes",
+    "tvdbId": 79501
   },
   {
     "title": "Widow's Bay",
     "tvdbId": 454109
   },
   {
-    "title": "Breaking Bad",
-    "tvdbId": 81189
-  },
-  {
-    "title": "The Rookie",
-    "tvdbId": 350665
-  },
-  {
-    "title": "X-Men '97",
-    "tvdbId": 412432
-  },
-  {
-    "title": "I Will Find You",
-    "tvdbId": 457173
-  },
-  {
-    "title": "Ride or Die",
-    "tvdbId": 457730
-  },
-  {
-    "title": "My Life with the Walter Boys",
-    "tvdbId": 405817
-  },
-  {
-    "title": "Rick and Morty",
-    "tvdbId": 275274
+    "title": "Slow Horses",
+    "tvdbId": 372264
   },
   {
     "title": "Star Trek: Strange New Worlds",
     "tvdbId": 382389
   },
   {
+    "title": "Breaking Bad",
+    "tvdbId": 81189
+  },
+  {
+    "title": "Ludwig",
+    "tvdbId": 435298
+  },
+  {
+    "title": "The Rookie",
+    "tvdbId": 350665
+  },
+  {
+    "title": "I Will Find You",
+    "tvdbId": 457173
+  },
+  {
+    "title": "Rick and Morty",
+    "tvdbId": 275274
+  },
+  {
     "title": "The Sopranos",
     "tvdbId": 75299
-  },
-  {
-    "title": "American Horror Story",
-    "tvdbId": 250487
-  },
-  {
-    "title": "The Bear",
-    "tvdbId": 403294
-  },
-  {
-    "title": "Off Campus",
-    "tvdbId": 455086
-  },
-  {
-    "title": "The Walking Dead",
-    "tvdbId": 153021
-  },
-  {
-    "title": "The Punisher",
-    "tvdbId": 331980
   }
 ]
