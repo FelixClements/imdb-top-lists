@@ -8,6 +8,10 @@
     "imdbId": "tt33764258"
   },
   {
+    "title": "The Dog Stars",
+    "imdbId": "tt21285562"
+  },
+  {
     "title": "Spider-Man: Brand New Day",
     "imdbId": "tt22084616"
   },
@@ -94,9 +98,5 @@
   {
     "title": "The Shawshank Redemption",
     "imdbId": "tt0111161"
-  },
-  {
-    "title": "The Best Little Whorehouse in Texas",
-    "imdbId": "tt0083642"
   }
 ]
