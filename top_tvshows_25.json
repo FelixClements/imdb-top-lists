@@ -1,98 +1,98 @@
 [
   {
-    "title": "Lanterns",
-    "tvdbId": 376098
+    "title": "The Gentlemen",
+    "tvdbId": 426845
   },
   {
     "title": "Silo",
     "tvdbId": 403245
   },
   {
-    "title": "Reacher",
-    "tvdbId": 366924
+    "title": "Lanterns",
+    "tvdbId": 376098
   },
   {
-    "title": "Ted Lasso",
-    "tvdbId": 383203
+    "title": "Reacher",
+    "tvdbId": 366924
   },
   {
     "title": "Furious",
     "tvdbId": 468000
   },
   {
-    "title": "Lioness",
-    "tvdbId": 388589
+    "title": "Ted Lasso",
+    "tvdbId": 383203
   },
   {
-    "title": "Dark Matter",
-    "tvdbId": 393159
+    "title": "Lioness",
+    "tvdbId": 388589
   },
   {
     "title": "The Mentalist",
     "tvdbId": 82459
   },
   {
-    "title": "Sterling Point",
-    "tvdbId": 459552
-  },
-  {
-    "title": "Outer Banks",
-    "tvdbId": 379169
-  },
-  {
     "title": "Game of Thrones",
     "tvdbId": 121361
   },
   {
-    "title": "House of the Dragon",
-    "tvdbId": 371572
+    "title": "Dark Matter",
+    "tvdbId": 393159
+  },
+  {
+    "title": "Chad Powers",
+    "tvdbId": 446526
   },
   {
     "title": "Adults",
     "tvdbId": 449390
   },
   {
-    "title": "Re: Zero - Starting Life in Another World",
-    "tvdbId": 305089
+    "title": "Star Trek: Strange New Worlds",
+    "tvdbId": 382389
   },
   {
-    "title": "Tires",
-    "tvdbId": 446718
-  },
-  {
-    "title": "The Gentlemen",
-    "tvdbId": 426845
+    "title": "House of the Dragon",
+    "tvdbId": 371572
   },
   {
     "title": "Breaking Bad",
     "tvdbId": 81189
   },
   {
-    "title": "Widow's Bay",
-    "tvdbId": 454109
-  },
-  {
-    "title": "The Rookie",
-    "tvdbId": 350665
-  },
-  {
-    "title": "Star Trek: Strange New Worlds",
-    "tvdbId": 382389
-  },
-  {
-    "title": "Lucky",
-    "tvdbId": 457437
+    "title": "Re: Zero - Starting Life in Another World",
+    "tvdbId": 305089
   },
   {
     "title": "Slow Horses",
     "tvdbId": 372264
   },
   {
-    "title": "The Pitt",
-    "tvdbId": 448176
+    "title": "Sterling Point",
+    "tvdbId": 459552
   },
   {
-    "title": "Heroes",
-    "tvdbId": 79501
+    "title": "The Rookie",
+    "tvdbId": 350665
+  },
+  {
+    "title": "Widow's Bay",
+    "tvdbId": 454109
+  },
+  {
+    "title": "MobLand",
+    "tvdbId": 446831
+  },
+  {
+    "title": "Outer Banks",
+    "tvdbId": 379169
+  },
+  {
+    "title": "Tires",
+    "tvdbId": 446718
+  },
+  {
+    "title": "The Sopranos",
+    "tvdbId": 75299
   }
 ]
