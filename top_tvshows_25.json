@@ -16,16 +16,16 @@
     "tvdbId": 366924
   },
   {
-    "title": "Furious",
-    "tvdbId": 468000
-  },
-  {
     "title": "Ted Lasso",
     "tvdbId": 383203
   },
   {
     "title": "Lioness",
     "tvdbId": 388589
+  },
+  {
+    "title": "Furious",
+    "tvdbId": 468000
   },
   {
     "title": "The Mentalist",
@@ -36,63 +36,63 @@
     "tvdbId": 121361
   },
   {
-    "title": "Dark Matter",
-    "tvdbId": 393159
-  },
-  {
-    "title": "Chad Powers",
-    "tvdbId": 446526
-  },
-  {
-    "title": "Adults",
-    "tvdbId": 449390
-  },
-  {
-    "title": "Star Trek: Strange New Worlds",
-    "tvdbId": 382389
-  },
-  {
-    "title": "House of the Dragon",
-    "tvdbId": 371572
-  },
-  {
-    "title": "Breaking Bad",
-    "tvdbId": 81189
-  },
-  {
-    "title": "Re: Zero - Starting Life in Another World",
-    "tvdbId": 305089
-  },
-  {
     "title": "Slow Horses",
     "tvdbId": 372264
-  },
-  {
-    "title": "Sterling Point",
-    "tvdbId": 459552
-  },
-  {
-    "title": "The Rookie",
-    "tvdbId": 350665
-  },
-  {
-    "title": "Widow's Bay",
-    "tvdbId": 454109
   },
   {
     "title": "MobLand",
     "tvdbId": 446831
   },
   {
-    "title": "Outer Banks",
-    "tvdbId": 379169
+    "title": "Dark Matter",
+    "tvdbId": 393159
   },
   {
-    "title": "Tires",
-    "tvdbId": 446718
+    "title": "Star Trek: Strange New Worlds",
+    "tvdbId": 382389
+  },
+  {
+    "title": "Re: Zero - Starting Life in Another World",
+    "tvdbId": 305089
+  },
+  {
+    "title": "Widow's Bay",
+    "tvdbId": 454109
+  },
+  {
+    "title": "Breaking Bad",
+    "tvdbId": 81189
+  },
+  {
+    "title": "House of the Dragon",
+    "tvdbId": 371572
+  },
+  {
+    "title": "Chad Powers",
+    "tvdbId": 446526
   },
   {
     "title": "The Sopranos",
     "tvdbId": 75299
+  },
+  {
+    "title": "Ludwig",
+    "tvdbId": 435298
+  },
+  {
+    "title": "American Horror Story",
+    "tvdbId": 250487
+  },
+  {
+    "title": "The Rookie",
+    "tvdbId": 350665
+  },
+  {
+    "title": "The Pitt",
+    "tvdbId": 448176
+  },
+  {
+    "title": "Adults",
+    "tvdbId": 449390
   }
 ]
