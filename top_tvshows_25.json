@@ -1,11 +1,11 @@
 [
   {
-    "title": "The Gentlemen",
-    "tvdbId": 426845
+    "title": "Monster",
+    "tvdbId": 389492
   },
   {
-    "title": "Silo",
-    "tvdbId": 403245
+    "title": "The Gentlemen",
+    "tvdbId": 426845
   },
   {
     "title": "Lanterns",
@@ -16,16 +16,28 @@
     "tvdbId": 366924
   },
   {
-    "title": "Ted Lasso",
-    "tvdbId": 383203
+    "title": "MobLand",
+    "tvdbId": 446831
+  },
+  {
+    "title": "Widow's Bay",
+    "tvdbId": 454109
+  },
+  {
+    "title": "Slow Horses",
+    "tvdbId": 372264
   },
   {
     "title": "Lioness",
     "tvdbId": 388589
   },
   {
-    "title": "Furious",
-    "tvdbId": 468000
+    "title": "Ted Lasso",
+    "tvdbId": 383203
+  },
+  {
+    "title": "Silo",
+    "tvdbId": 403245
   },
   {
     "title": "The Mentalist",
@@ -36,12 +48,16 @@
     "tvdbId": 121361
   },
   {
-    "title": "Slow Horses",
-    "tvdbId": 372264
+    "title": "Furious",
+    "tvdbId": 468000
   },
   {
-    "title": "MobLand",
-    "tvdbId": 446831
+    "title": "Breaking Bad",
+    "tvdbId": 81189
+  },
+  {
+    "title": "The Pitt",
+    "tvdbId": 448176
   },
   {
     "title": "Dark Matter",
@@ -52,47 +68,31 @@
     "tvdbId": 382389
   },
   {
-    "title": "Re: Zero - Starting Life in Another World",
-    "tvdbId": 305089
-  },
-  {
-    "title": "Widow's Bay",
-    "tvdbId": 454109
-  },
-  {
-    "title": "Breaking Bad",
-    "tvdbId": 81189
-  },
-  {
-    "title": "House of the Dragon",
-    "tvdbId": 371572
-  },
-  {
-    "title": "Chad Powers",
-    "tvdbId": 446526
-  },
-  {
     "title": "The Sopranos",
     "tvdbId": 75299
-  },
-  {
-    "title": "Ludwig",
-    "tvdbId": 435298
   },
   {
     "title": "American Horror Story",
     "tvdbId": 250487
   },
   {
-    "title": "The Rookie",
-    "tvdbId": 350665
+    "title": "The Diplomat",
+    "tvdbId": 415239
   },
   {
-    "title": "The Pitt",
-    "tvdbId": 448176
+    "title": "House of the Dragon",
+    "tvdbId": 371572
   },
   {
-    "title": "Adults",
-    "tvdbId": 449390
+    "title": "Re: Zero - Starting Life in Another World",
+    "tvdbId": 305089
+  },
+  {
+    "title": "Pluribus",
+    "tvdbId": 436457
+  },
+  {
+    "title": "The Beast in Me",
+    "tvdbId": 448245
   }
 ]
