@@ -4,6 +4,10 @@
     "tvdbId": 389492
   },
   {
+    "title": "Neagley",
+    "tvdbId": 455064
+  },
+  {
     "title": "The Gentlemen",
     "tvdbId": 426845
   },
@@ -34,9 +38,5 @@
   {
     "title": "Ted Lasso",
     "tvdbId": 383203
-  },
-  {
-    "title": "Silo",
-    "tvdbId": 403245
   }
 ]

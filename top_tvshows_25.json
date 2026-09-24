@@ -4,6 +4,10 @@
     "tvdbId": 389492
   },
   {
+    "title": "Neagley",
+    "tvdbId": 455064
+  },
+  {
     "title": "The Gentlemen",
     "tvdbId": 426845
   },
@@ -72,6 +76,10 @@
     "tvdbId": 75299
   },
   {
+    "title": "Stuart Fails to Save the Universe",
+    "tvdbId": 465664
+  },
+  {
     "title": "American Horror Story",
     "tvdbId": 250487
   },
@@ -86,13 +94,5 @@
   {
     "title": "Re: Zero - Starting Life in Another World",
     "tvdbId": 305089
-  },
-  {
-    "title": "Pluribus",
-    "tvdbId": 436457
-  },
-  {
-    "title": "The Beast in Me",
-    "tvdbId": 448245
   }
 ]
