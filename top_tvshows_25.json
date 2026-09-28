@@ -8,91 +8,95 @@
     "tvdbId": 455064
   },
   {
-    "title": "The Gentlemen",
-    "tvdbId": 426845
-  },
-  {
     "title": "Lanterns",
     "tvdbId": 376098
-  },
-  {
-    "title": "Reacher",
-    "tvdbId": 366924
   },
   {
     "title": "MobLand",
     "tvdbId": 446831
   },
   {
-    "title": "Widow's Bay",
-    "tvdbId": 454109
-  },
-  {
-    "title": "Slow Horses",
-    "tvdbId": 372264
-  },
-  {
-    "title": "Lioness",
-    "tvdbId": 388589
-  },
-  {
-    "title": "Ted Lasso",
-    "tvdbId": 383203
-  },
-  {
-    "title": "Silo",
-    "tvdbId": 403245
-  },
-  {
-    "title": "The Mentalist",
-    "tvdbId": 82459
-  },
-  {
-    "title": "Game of Thrones",
-    "tvdbId": 121361
-  },
-  {
-    "title": "Furious",
-    "tvdbId": 468000
-  },
-  {
-    "title": "Breaking Bad",
-    "tvdbId": 81189
-  },
-  {
-    "title": "The Pitt",
-    "tvdbId": 448176
-  },
-  {
-    "title": "Dark Matter",
-    "tvdbId": 393159
-  },
-  {
-    "title": "Star Trek: Strange New Worlds",
-    "tvdbId": 382389
-  },
-  {
-    "title": "The Sopranos",
-    "tvdbId": 75299
-  },
-  {
-    "title": "Stuart Fails to Save the Universe",
-    "tvdbId": 465664
+    "title": "The Gentlemen",
+    "tvdbId": 426845
   },
   {
     "title": "American Horror Story",
     "tvdbId": 250487
   },
   {
-    "title": "The Diplomat",
-    "tvdbId": 415239
+    "title": "Lioness",
+    "tvdbId": 388589
   },
   {
-    "title": "House of the Dragon",
-    "tvdbId": 371572
+    "title": "Slow Horses",
+    "tvdbId": 372264
+  },
+  {
+    "title": "Ted Lasso",
+    "tvdbId": 383203
+  },
+  {
+    "title": "Reacher",
+    "tvdbId": 366924
+  },
+  {
+    "title": "Widow's Bay",
+    "tvdbId": 454109
+  },
+  {
+    "title": "The Mentalist",
+    "tvdbId": 82459
+  },
+  {
+    "title": "Silo",
+    "tvdbId": 403245
+  },
+  {
+    "title": "Game of Thrones",
+    "tvdbId": 121361
+  },
+  {
+    "title": "Dark Matter",
+    "tvdbId": 393159
+  },
+  {
+    "title": "Breaking Bad",
+    "tvdbId": 81189
+  },
+  {
+    "title": "Star Trek: Strange New Worlds",
+    "tvdbId": 382389
+  },
+  {
+    "title": "Furious",
+    "tvdbId": 468000
+  },
+  {
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "tvdbId": 371310
+  },
+  {
+    "title": "Stuart Fails to Save the Universe",
+    "tvdbId": 465664
+  },
+  {
+    "title": "The Sopranos",
+    "tvdbId": 75299
   },
   {
     "title": "Re: Zero - Starting Life in Another World",
     "tvdbId": 305089
+  },
+  {
+    "title": "The Wire",
+    "tvdbId": 79126
+  },
+  {
+    "title": "The Pitt",
+    "tvdbId": 448176
+  },
+  {
+    "title": "House of the Dragon",
+    "tvdbId": 371572
   }
 ]
