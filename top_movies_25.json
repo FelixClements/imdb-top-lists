@@ -16,6 +16,10 @@
     "imdbId": "tt22526100"
   },
   {
+    "title": "Primetime",
+    "imdbId": "tt34206385"
+  },
+  {
     "title": "Backrooms",
     "imdbId": "tt26657236"
   },
@@ -72,6 +76,10 @@
     "imdbId": "tt12042730"
   },
   {
+    "title": "Hope",
+    "imdbId": "tt27369017"
+  },
+  {
     "title": "Coyote vs. Acme",
     "imdbId": "tt1756855"
   },
@@ -90,13 +98,5 @@
   {
     "title": "Disclosure Day",
     "imdbId": "tt15047880"
-  },
-  {
-    "title": "Weapons",
-    "imdbId": "tt26581740"
-  },
-  {
-    "title": "Tony",
-    "imdbId": "tt33095251"
   }
 ]
