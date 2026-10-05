@@ -1,22 +1,22 @@
 [
   {
-    "title": "Monster",
-    "tvdbId": 389492
-  },
-  {
-    "title": "Neagley",
-    "tvdbId": 455064
-  },
-  {
     "title": "Lanterns",
     "tvdbId": 376098
+  },
+  {
+    "title": "Monster",
+    "tvdbId": 389492
   },
   {
     "title": "MobLand",
     "tvdbId": 446831
   },
   {
-    "title": "The Gentlemen",
-    "tvdbId": 426845
+    "title": "Ted Lasso",
+    "tvdbId": 383203
+  },
+  {
+    "title": "American Horror Story",
+    "tvdbId": 250487
   }
 ]
