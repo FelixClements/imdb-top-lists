@@ -1,5 +1,9 @@
 [
   {
+    "title": "East of Eden",
+    "tvdbId": 430034
+  },
+  {
     "title": "Lanterns",
     "tvdbId": 376098
   },
@@ -34,9 +38,5 @@
   {
     "title": "Reacher",
     "tvdbId": 366924
-  },
-  {
-    "title": "Lioness",
-    "tvdbId": 388589
   }
 ]

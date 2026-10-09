@@ -1,5 +1,9 @@
 [
   {
+    "title": "East of Eden",
+    "tvdbId": 430034
+  },
+  {
     "title": "Lanterns",
     "tvdbId": 376098
   },
@@ -14,9 +18,5 @@
   {
     "title": "Ted Lasso",
     "tvdbId": 383203
-  },
-  {
-    "title": "American Horror Story",
-    "tvdbId": 250487
   }
 ]
