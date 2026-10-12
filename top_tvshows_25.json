@@ -1,5 +1,9 @@
 [
   {
+    "title": "Carrie",
+    "tvdbId": 455755
+  },
+  {
     "title": "East of Eden",
     "tvdbId": 430034
   },
@@ -8,24 +12,24 @@
     "tvdbId": 376098
   },
   {
-    "title": "Monster",
-    "tvdbId": 389492
+    "title": "Ted Lasso",
+    "tvdbId": 383203
   },
   {
     "title": "MobLand",
     "tvdbId": 446831
   },
   {
-    "title": "Ted Lasso",
-    "tvdbId": 383203
+    "title": "Slow Horses",
+    "tvdbId": 372264
+  },
+  {
+    "title": "Monster",
+    "tvdbId": 389492
   },
   {
     "title": "American Horror Story",
     "tvdbId": 250487
-  },
-  {
-    "title": "Slow Horses",
-    "tvdbId": 372264
   },
   {
     "title": "The Gentlemen",
@@ -36,67 +40,63 @@
     "tvdbId": 455064
   },
   {
-    "title": "Reacher",
-    "tvdbId": 366924
-  },
-  {
-    "title": "Lioness",
-    "tvdbId": 388589
-  },
-  {
     "title": "The Mentalist",
     "tvdbId": 82459
-  },
-  {
-    "title": "Dexter: Resurrection",
-    "tvdbId": 452595
   },
   {
     "title": "Game of Thrones",
     "tvdbId": 121361
   },
   {
+    "title": "Reacher",
+    "tvdbId": 366924
+  },
+  {
     "title": "Widow's Bay",
     "tvdbId": 454109
+  },
+  {
+    "title": "Lioness",
+    "tvdbId": 388589
   },
   {
     "title": "Silo",
     "tvdbId": 403245
   },
   {
-    "title": "Black Clover",
-    "tvdbId": 331753
+    "title": "Breaking Bad",
+    "tvdbId": 81189
   },
   {
     "title": "Dark Matter",
     "tvdbId": 393159
   },
   {
-    "title": "Breaking Bad",
-    "tvdbId": 81189
+    "title": "Black Clover",
+    "tvdbId": 331753
+  },
+  {
+    "title": "Mayor of Kingstown",
+    "tvdbId": 386630
   },
   {
     "title": "The Rookie",
     "tvdbId": 350665
   },
   {
-    "title": "Carrie",
-    "tvdbId": 455755
+    "title": "NCIS",
+    "tvdbId": 72108
+  },
+  {
+    "title": "Dexter: Resurrection",
+    "tvdbId": 452595
   },
   {
     "title": "The Sopranos",
     "tvdbId": 75299
   },
   {
-    "title": "Furious",
-    "tvdbId": 468000
-  },
-  {
-    "title": "South Park",
-    "tvdbId": 75897
-  },
-  {
-    "title": "House of the Dragon",
-    "tvdbId": 371572
+    "title": "Law & Order: Special Victims Unit",
+    "tvdbId": 75692
   }
 ]

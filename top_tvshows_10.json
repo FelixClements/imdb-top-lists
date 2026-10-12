@@ -1,5 +1,9 @@
 [
   {
+    "title": "Carrie",
+    "tvdbId": 455755
+  },
+  {
     "title": "East of Eden",
     "tvdbId": 430034
   },
@@ -8,24 +12,24 @@
     "tvdbId": 376098
   },
   {
-    "title": "Monster",
-    "tvdbId": 389492
+    "title": "Ted Lasso",
+    "tvdbId": 383203
   },
   {
     "title": "MobLand",
     "tvdbId": 446831
   },
   {
-    "title": "Ted Lasso",
-    "tvdbId": 383203
+    "title": "Slow Horses",
+    "tvdbId": 372264
+  },
+  {
+    "title": "Monster",
+    "tvdbId": 389492
   },
   {
     "title": "American Horror Story",
     "tvdbId": 250487
-  },
-  {
-    "title": "Slow Horses",
-    "tvdbId": 372264
   },
   {
     "title": "The Gentlemen",
@@ -34,9 +38,5 @@
   {
     "title": "Neagley",
     "tvdbId": 455064
-  },
-  {
-    "title": "Reacher",
-    "tvdbId": 366924
   }
 ]
