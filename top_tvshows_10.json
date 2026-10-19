@@ -12,12 +12,8 @@
     "tvdbId": 430034
   },
   {
-    "title": "Lanterns",
-    "tvdbId": 376098
-  },
-  {
-    "title": "Ted Lasso",
-    "tvdbId": 383203
+    "title": "The Diplomat",
+    "tvdbId": 415239
   },
   {
     "title": "MobLand",
@@ -28,15 +24,19 @@
     "tvdbId": 372264
   },
   {
-    "title": "Monster",
-    "tvdbId": 389492
+    "title": "Lanterns",
+    "tvdbId": 376098
+  },
+  {
+    "title": "Ted Lasso",
+    "tvdbId": 383203
+  },
+  {
+    "title": "Tulsa King",
+    "tvdbId": 413215
   },
   {
     "title": "American Horror Story",
     "tvdbId": 250487
-  },
-  {
-    "title": "The Gentlemen",
-    "tvdbId": 426845
   }
 ]
