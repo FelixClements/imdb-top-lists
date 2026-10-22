@@ -8,6 +8,10 @@
     "tvdbId": 480205
   },
   {
+    "title": "Crystal Lake",
+    "tvdbId": 426669
+  },
+  {
     "title": "East of Eden",
     "tvdbId": 430034
   },
@@ -94,9 +98,5 @@
   {
     "title": "True Detective",
     "tvdbId": 270633
-  },
-  {
-    "title": "Lioness",
-    "tvdbId": 388589
   }
 ]

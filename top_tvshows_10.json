@@ -8,6 +8,10 @@
     "tvdbId": 480205
   },
   {
+    "title": "Crystal Lake",
+    "tvdbId": 426669
+  },
+  {
     "title": "East of Eden",
     "tvdbId": 430034
   },
@@ -34,9 +38,5 @@
   {
     "title": "Tulsa King",
     "tvdbId": 413215
-  },
-  {
-    "title": "American Horror Story",
-    "tvdbId": 250487
   }
 ]
