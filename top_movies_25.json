@@ -56,6 +56,10 @@
     "imdbId": "tt6933238"
   },
   {
+    "title": "Clayface",
+    "imdbId": "tt34890576"
+  },
+  {
     "title": "Practical Magic 2",
     "imdbId": "tt32588798"
   },
@@ -94,9 +98,5 @@
   {
     "title": "Evil Dead Burn",
     "imdbId": "tt31170389"
-  },
-  {
-    "title": "The Uprising",
-    "imdbId": "tt36983905"
   }
 ]
