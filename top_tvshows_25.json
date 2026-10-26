@@ -4,40 +4,40 @@
     "tvdbId": 455755
   },
   {
-    "title": "Below",
-    "tvdbId": 480205
-  },
-  {
     "title": "Crystal Lake",
     "tvdbId": 426669
-  },
-  {
-    "title": "East of Eden",
-    "tvdbId": 430034
-  },
-  {
-    "title": "The Diplomat",
-    "tvdbId": 415239
-  },
-  {
-    "title": "MobLand",
-    "tvdbId": 446831
   },
   {
     "title": "Slow Horses",
     "tvdbId": 372264
   },
   {
-    "title": "Lanterns",
-    "tvdbId": 376098
+    "title": "The Terminal List",
+    "tvdbId": 399917
   },
   {
-    "title": "Ted Lasso",
-    "tvdbId": 383203
+    "title": "Below",
+    "tvdbId": 480205
   },
   {
-    "title": "Tulsa King",
-    "tvdbId": 413215
+    "title": "MobLand",
+    "tvdbId": 446831
+  },
+  {
+    "title": "The Diplomat",
+    "tvdbId": 415239
+  },
+  {
+    "title": "East of Eden",
+    "tvdbId": 430034
+  },
+  {
+    "title": "Nobody Wants This",
+    "tvdbId": 450093
+  },
+  {
+    "title": "From",
+    "tvdbId": 401003
   },
   {
     "title": "American Horror Story",
@@ -48,24 +48,32 @@
     "tvdbId": 426845
   },
   {
-    "title": "Breaking Bad",
-    "tvdbId": 81189
+    "title": "Tulsa King",
+    "tvdbId": 413215
+  },
+  {
+    "title": "Ted Lasso",
+    "tvdbId": 383203
   },
   {
     "title": "The Mentalist",
     "tvdbId": 82459
   },
   {
-    "title": "Monster",
-    "tvdbId": 389492
-  },
-  {
-    "title": "Time",
-    "tvdbId": 393654
-  },
-  {
     "title": "Game of Thrones",
     "tvdbId": 121361
+  },
+  {
+    "title": "The Lord of the Rings: The Rings of Power",
+    "tvdbId": 367506
+  },
+  {
+    "title": "Breaking Bad",
+    "tvdbId": 81189
+  },
+  {
+    "title": "Lanterns",
+    "tvdbId": 376098
   },
   {
     "title": "Dark Matter",
@@ -80,23 +88,15 @@
     "tvdbId": 331753
   },
   {
-    "title": "Neagley",
-    "tvdbId": 455064
-  },
-  {
-    "title": "Reacher",
-    "tvdbId": 366924
-  },
-  {
-    "title": "Silo",
-    "tvdbId": 403245
+    "title": "Monster",
+    "tvdbId": 389492
   },
   {
     "title": "The Rookie",
     "tvdbId": 350665
   },
   {
-    "title": "True Detective",
-    "tvdbId": 270633
+    "title": "Silo",
+    "tvdbId": 403245
   }
 ]
