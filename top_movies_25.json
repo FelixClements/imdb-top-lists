@@ -8,6 +8,10 @@
     "imdbId": "tt34890576"
   },
   {
+    "title": "Wildwood",
+    "imdbId": "tt2056785"
+  },
+  {
     "title": "Street Fighter",
     "imdbId": "tt27419420"
   },
@@ -94,9 +98,5 @@
   {
     "title": "Hocus Pocus",
     "imdbId": "tt0107120"
-  },
-  {
-    "title": "Practical Magic 2",
-    "imdbId": "tt32588798"
   }
 ]

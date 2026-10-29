@@ -8,6 +8,10 @@
     "tvdbId": 426669
   },
   {
+    "title": "VisionQuest",
+    "tvdbId": 426606
+  },
+  {
     "title": "Slow Horses",
     "tvdbId": 372264
   },
@@ -94,9 +98,5 @@
   {
     "title": "The Rookie",
     "tvdbId": 350665
-  },
-  {
-    "title": "Silo",
-    "tvdbId": 403245
   }
 ]
