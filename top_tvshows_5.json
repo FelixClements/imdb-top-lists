@@ -1,5 +1,13 @@
 [
   {
+    "title": "Dexter: Resurrection",
+    "tvdbId": 452595
+  },
+  {
+    "title": "MobLand",
+    "tvdbId": 446831
+  },
+  {
     "title": "Carrie",
     "tvdbId": 455755
   },
@@ -10,13 +18,5 @@
   {
     "title": "VisionQuest",
     "tvdbId": 426606
-  },
-  {
-    "title": "Slow Horses",
-    "tvdbId": 372264
-  },
-  {
-    "title": "The Terminal List",
-    "tvdbId": 399917
   }
 ]

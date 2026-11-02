@@ -1,5 +1,13 @@
 [
   {
+    "title": "Dexter: Resurrection",
+    "tvdbId": 452595
+  },
+  {
+    "title": "MobLand",
+    "tvdbId": 446831
+  },
+  {
     "title": "Carrie",
     "tvdbId": 455755
   },
@@ -12,31 +20,23 @@
     "tvdbId": 426606
   },
   {
-    "title": "Slow Horses",
-    "tvdbId": 372264
-  },
-  {
     "title": "The Terminal List",
     "tvdbId": 399917
   },
   {
-    "title": "Below",
-    "tvdbId": 480205
+    "title": "Slow Horses",
+    "tvdbId": 372264
   },
   {
-    "title": "MobLand",
-    "tvdbId": 446831
+    "title": "It: Welcome to Derry",
+    "tvdbId": 418424
   },
   {
-    "title": "The Diplomat",
-    "tvdbId": 415239
+    "title": "Black Clover",
+    "tvdbId": 331753
   },
   {
-    "title": "East of Eden",
-    "tvdbId": 430034
-  },
-  {
-    "title": "Nobody Wants This",
-    "tvdbId": 450093
+    "title": "From",
+    "tvdbId": 401003
   }
 ]
