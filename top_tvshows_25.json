@@ -1,23 +1,31 @@
 [
   {
+    "title": "MobLand",
+    "tvdbId": 446831
+  },
+  {
+    "title": "Black Doves",
+    "tvdbId": 441315
+  },
+  {
     "title": "Dexter: Resurrection",
     "tvdbId": 452595
   },
   {
-    "title": "MobLand",
-    "tvdbId": 446831
+    "title": "VisionQuest",
+    "tvdbId": 426606
+  },
+  {
+    "title": "Black Clover",
+    "tvdbId": 331753
   },
   {
     "title": "Carrie",
     "tvdbId": 455755
   },
   {
-    "title": "Crystal Lake",
-    "tvdbId": 426669
-  },
-  {
-    "title": "VisionQuest",
-    "tvdbId": 426606
+    "title": "From",
+    "tvdbId": 401003
   },
   {
     "title": "The Terminal List",
@@ -28,16 +36,12 @@
     "tvdbId": 372264
   },
   {
-    "title": "It: Welcome to Derry",
-    "tvdbId": 418424
+    "title": "East of Eden",
+    "tvdbId": 430034
   },
   {
-    "title": "Black Clover",
-    "tvdbId": 331753
-  },
-  {
-    "title": "From",
-    "tvdbId": 401003
+    "title": "Crystal Lake",
+    "tvdbId": 426669
   },
   {
     "title": "The Diplomat",
@@ -48,48 +52,36 @@
     "tvdbId": 450093
   },
   {
-    "title": "Below",
-    "tvdbId": 480205
-  },
-  {
-    "title": "East of Eden",
-    "tvdbId": 430034
-  },
-  {
-    "title": "This City Is Ours: A Crime Family Saga",
-    "tvdbId": 446897
-  },
-  {
-    "title": "American Horror Story",
-    "tvdbId": 250487
+    "title": "The Gilded Age",
+    "tvdbId": 364412
   },
   {
     "title": "The Mentalist",
     "tvdbId": 82459
   },
   {
-    "title": "Game of Thrones",
-    "tvdbId": 121361
+    "title": "Below",
+    "tvdbId": 480205
   },
   {
-    "title": "Ghosts",
-    "tvdbId": 400267
+    "title": "Game of Thrones",
+    "tvdbId": 121361
   },
   {
     "title": "Tulsa King",
     "tvdbId": 413215
   },
   {
-    "title": "Dark Matter",
-    "tvdbId": 393159
-  },
-  {
-    "title": "The Lord of the Rings: The Rings of Power",
-    "tvdbId": 367506
+    "title": "It: Welcome to Derry",
+    "tvdbId": 418424
   },
   {
     "title": "Breaking Bad",
     "tvdbId": 81189
+  },
+  {
+    "title": "The Lord of the Rings: The Rings of Power",
+    "tvdbId": 367506
   },
   {
     "title": "Ted Lasso",
@@ -98,5 +90,13 @@
   {
     "title": "The Gentlemen",
     "tvdbId": 426845
+  },
+  {
+    "title": "This City Is Ours: A Crime Family Saga",
+    "tvdbId": 446897
+  },
+  {
+    "title": "Stick",
+    "tvdbId": 455562
   }
 ]

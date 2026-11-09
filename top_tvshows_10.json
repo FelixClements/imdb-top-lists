@@ -1,23 +1,31 @@
 [
   {
+    "title": "MobLand",
+    "tvdbId": 446831
+  },
+  {
+    "title": "Black Doves",
+    "tvdbId": 441315
+  },
+  {
     "title": "Dexter: Resurrection",
     "tvdbId": 452595
   },
   {
-    "title": "MobLand",
-    "tvdbId": 446831
+    "title": "VisionQuest",
+    "tvdbId": 426606
+  },
+  {
+    "title": "Black Clover",
+    "tvdbId": 331753
   },
   {
     "title": "Carrie",
     "tvdbId": 455755
   },
   {
-    "title": "Crystal Lake",
-    "tvdbId": 426669
-  },
-  {
-    "title": "VisionQuest",
-    "tvdbId": 426606
+    "title": "From",
+    "tvdbId": 401003
   },
   {
     "title": "The Terminal List",
@@ -28,15 +36,7 @@
     "tvdbId": 372264
   },
   {
-    "title": "It: Welcome to Derry",
-    "tvdbId": 418424
-  },
-  {
-    "title": "Black Clover",
-    "tvdbId": 331753
-  },
-  {
-    "title": "From",
-    "tvdbId": 401003
+    "title": "East of Eden",
+    "tvdbId": 430034
   }
 ]
