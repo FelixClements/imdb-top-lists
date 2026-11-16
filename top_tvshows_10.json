@@ -1,7 +1,15 @@
 [
   {
+    "title": "The Lord of the Rings: The Rings of Power",
+    "tvdbId": 367506
+  },
+  {
     "title": "MobLand",
     "tvdbId": 446831
+  },
+  {
+    "title": "VisionQuest",
+    "tvdbId": 426606
   },
   {
     "title": "Black Doves",
@@ -12,24 +20,16 @@
     "tvdbId": 452595
   },
   {
-    "title": "VisionQuest",
-    "tvdbId": 426606
+    "title": "From",
+    "tvdbId": 401003
   },
   {
     "title": "Black Clover",
     "tvdbId": 331753
   },
   {
-    "title": "Carrie",
-    "tvdbId": 455755
-  },
-  {
-    "title": "From",
-    "tvdbId": 401003
-  },
-  {
-    "title": "The Terminal List",
-    "tvdbId": 399917
+    "title": "Rivals",
+    "tvdbId": 429920
   },
   {
     "title": "Slow Horses",

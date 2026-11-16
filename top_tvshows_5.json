@@ -1,7 +1,15 @@
 [
   {
+    "title": "The Lord of the Rings: The Rings of Power",
+    "tvdbId": 367506
+  },
+  {
     "title": "MobLand",
     "tvdbId": 446831
+  },
+  {
+    "title": "VisionQuest",
+    "tvdbId": 426606
   },
   {
     "title": "Black Doves",
@@ -10,13 +18,5 @@
   {
     "title": "Dexter: Resurrection",
     "tvdbId": 452595
-  },
-  {
-    "title": "VisionQuest",
-    "tvdbId": 426606
-  },
-  {
-    "title": "Black Clover",
-    "tvdbId": 331753
   }
 ]

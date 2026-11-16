@@ -1,7 +1,15 @@
 [
   {
+    "title": "The Lord of the Rings: The Rings of Power",
+    "tvdbId": 367506
+  },
+  {
     "title": "MobLand",
     "tvdbId": 446831
+  },
+  {
+    "title": "VisionQuest",
+    "tvdbId": 426606
   },
   {
     "title": "Black Doves",
@@ -12,24 +20,16 @@
     "tvdbId": 452595
   },
   {
-    "title": "VisionQuest",
-    "tvdbId": 426606
+    "title": "From",
+    "tvdbId": 401003
   },
   {
     "title": "Black Clover",
     "tvdbId": 331753
   },
   {
-    "title": "Carrie",
-    "tvdbId": 455755
-  },
-  {
-    "title": "From",
-    "tvdbId": 401003
-  },
-  {
-    "title": "The Terminal List",
-    "tvdbId": 399917
+    "title": "Rivals",
+    "tvdbId": 429920
   },
   {
     "title": "Slow Horses",
@@ -40,63 +40,63 @@
     "tvdbId": 430034
   },
   {
-    "title": "Crystal Lake",
-    "tvdbId": 426669
+    "title": "The Terminal List",
+    "tvdbId": 399917
   },
   {
-    "title": "The Diplomat",
-    "tvdbId": 415239
-  },
-  {
-    "title": "Nobody Wants This",
-    "tvdbId": 450093
-  },
-  {
-    "title": "The Gilded Age",
-    "tvdbId": 364412
+    "title": "Carrie",
+    "tvdbId": 455755
   },
   {
     "title": "The Mentalist",
     "tvdbId": 82459
   },
   {
-    "title": "Below",
-    "tvdbId": 480205
+    "title": "Tulsa King",
+    "tvdbId": 413215
+  },
+  {
+    "title": "The Diplomat",
+    "tvdbId": 415239
   },
   {
     "title": "Game of Thrones",
     "tvdbId": 121361
   },
   {
-    "title": "Tulsa King",
-    "tvdbId": 413215
-  },
-  {
-    "title": "It: Welcome to Derry",
-    "tvdbId": 418424
+    "title": "The Gilded Age",
+    "tvdbId": 364412
   },
   {
     "title": "Breaking Bad",
     "tvdbId": 81189
   },
   {
-    "title": "The Lord of the Rings: The Rings of Power",
-    "tvdbId": 367506
+    "title": "Crystal Lake",
+    "tvdbId": 426669
   },
   {
-    "title": "Ted Lasso",
-    "tvdbId": 383203
+    "title": "Stick",
+    "tvdbId": 455562
   },
   {
     "title": "The Gentlemen",
     "tvdbId": 426845
   },
   {
-    "title": "This City Is Ours: A Crime Family Saga",
-    "tvdbId": 446897
+    "title": "Ted Lasso",
+    "tvdbId": 383203
   },
   {
-    "title": "Stick",
-    "tvdbId": 455562
+    "title": "Nobody Wants This",
+    "tvdbId": 450093
+  },
+  {
+    "title": "Below",
+    "tvdbId": 480205
+  },
+  {
+    "title": "Law & Order: Special Victims Unit",
+    "tvdbId": 75692
   }
 ]
