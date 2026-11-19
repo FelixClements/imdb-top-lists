@@ -4,6 +4,10 @@
     "imdbId": "tt45368240"
   },
   {
+    "title": "Ebenezer",
+    "imdbId": "tt38773219"
+  },
+  {
     "title": "The Odyssey",
     "imdbId": "tt33764258"
   },
@@ -34,9 +38,5 @@
   {
     "title": "Primetime",
     "imdbId": "tt34206385"
-  },
-  {
-    "title": "Clayface",
-    "imdbId": "tt34890576"
   }
 ]
