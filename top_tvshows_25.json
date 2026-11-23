@@ -1,9 +1,5 @@
 [
   {
-    "title": "The Lord of the Rings: The Rings of Power",
-    "tvdbId": 367506
-  },
-  {
     "title": "The Body",
     "tvdbId": 463695
   },
@@ -12,20 +8,40 @@
     "tvdbId": 446831
   },
   {
-    "title": "VisionQuest",
-    "tvdbId": 426606
-  },
-  {
-    "title": "Black Doves",
-    "tvdbId": 441315
+    "title": "The Lord of the Rings: The Rings of Power",
+    "tvdbId": 367506
   },
   {
     "title": "Dexter: Resurrection",
     "tvdbId": 452595
   },
   {
+    "title": "Black Doves",
+    "tvdbId": 441315
+  },
+  {
+    "title": "Yellowjackets",
+    "tvdbId": 399731
+  },
+  {
+    "title": "Percy Jackson and the Olympians",
+    "tvdbId": 415151
+  },
+  {
+    "title": "VisionQuest",
+    "tvdbId": 426606
+  },
+  {
     "title": "From",
     "tvdbId": 401003
+  },
+  {
+    "title": "Slow Horses",
+    "tvdbId": 372264
+  },
+  {
+    "title": "Tulsa King",
+    "tvdbId": 413215
   },
   {
     "title": "Black Clover",
@@ -36,52 +52,44 @@
     "tvdbId": 429920
   },
   {
-    "title": "Slow Horses",
-    "tvdbId": 372264
+    "title": "The Mentalist",
+    "tvdbId": 82459
   },
   {
     "title": "East of Eden",
     "tvdbId": 430034
   },
   {
-    "title": "The Terminal List",
-    "tvdbId": 399917
-  },
-  {
-    "title": "Carrie",
-    "tvdbId": 455755
-  },
-  {
-    "title": "The Mentalist",
-    "tvdbId": 82459
-  },
-  {
-    "title": "Tulsa King",
-    "tvdbId": 413215
-  },
-  {
-    "title": "The Diplomat",
-    "tvdbId": 415239
+    "title": "The Gilded Age",
+    "tvdbId": 364412
   },
   {
     "title": "Game of Thrones",
     "tvdbId": 121361
   },
   {
-    "title": "The Gilded Age",
-    "tvdbId": 364412
+    "title": "3 Body Problem",
+    "tvdbId": 411959
+  },
+  {
+    "title": "The Terminal List",
+    "tvdbId": 399917
   },
   {
     "title": "Breaking Bad",
     "tvdbId": 81189
   },
   {
-    "title": "Crystal Lake",
-    "tvdbId": 426669
+    "title": "Presumed Innocent",
+    "tvdbId": 415738
   },
   {
-    "title": "Stick",
-    "tvdbId": 455562
+    "title": "Carrie",
+    "tvdbId": 455755
+  },
+  {
+    "title": "The Diplomat",
+    "tvdbId": 415239
   },
   {
     "title": "The Gentlemen",
@@ -90,13 +98,5 @@
   {
     "title": "Ted Lasso",
     "tvdbId": 383203
-  },
-  {
-    "title": "Nobody Wants This",
-    "tvdbId": 450093
-  },
-  {
-    "title": "Below",
-    "tvdbId": 480205
   }
 ]

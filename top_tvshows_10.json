@@ -1,9 +1,5 @@
 [
   {
-    "title": "The Lord of the Rings: The Rings of Power",
-    "tvdbId": 367506
-  },
-  {
     "title": "The Body",
     "tvdbId": 463695
   },
@@ -12,28 +8,32 @@
     "tvdbId": 446831
   },
   {
-    "title": "VisionQuest",
-    "tvdbId": 426606
-  },
-  {
-    "title": "Black Doves",
-    "tvdbId": 441315
+    "title": "The Lord of the Rings: The Rings of Power",
+    "tvdbId": 367506
   },
   {
     "title": "Dexter: Resurrection",
     "tvdbId": 452595
   },
   {
+    "title": "Black Doves",
+    "tvdbId": 441315
+  },
+  {
+    "title": "Yellowjackets",
+    "tvdbId": 399731
+  },
+  {
+    "title": "Percy Jackson and the Olympians",
+    "tvdbId": 415151
+  },
+  {
+    "title": "VisionQuest",
+    "tvdbId": 426606
+  },
+  {
     "title": "From",
     "tvdbId": 401003
-  },
-  {
-    "title": "Black Clover",
-    "tvdbId": 331753
-  },
-  {
-    "title": "Rivals",
-    "tvdbId": 429920
   },
   {
     "title": "Slow Horses",
